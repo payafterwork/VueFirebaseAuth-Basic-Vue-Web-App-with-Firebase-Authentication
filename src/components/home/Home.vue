@@ -1,7 +1,7 @@
 <template>
   <div class="map">
   	<div class="google-map" id="map"></div>
-    <h2>Home sdcdcds</h2>
+    <h2>Authenticated Users Only Area</h2>
   </div>
 </template>
 
