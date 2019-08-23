@@ -6,8 +6,8 @@
           Geo location
         </a>
         <ul class="right">
-          <li><a href="">Signup</a></li>
-          <li><a href="">Login</a></li>
+          <li><a href="/signup">Signup</a></li>
+          <li><a href="/login">Login</a></li>
         </ul>
       </div>
     </nav>
