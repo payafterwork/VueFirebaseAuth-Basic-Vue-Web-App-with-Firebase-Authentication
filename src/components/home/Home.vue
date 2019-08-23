@@ -6,11 +6,17 @@
 </template>
 
 <script>
+import firebase from 'firebase'
+ 
 export default {
-  name: 'Home',
+   name: 'Home',
   data(){
     return{
     }
+  },
+  mounted(){
+  	console.log(firebase.auth().currentUser)
+  	
   }
 }
 </script>
