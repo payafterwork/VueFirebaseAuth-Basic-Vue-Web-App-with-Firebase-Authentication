@@ -1,6 +1,8 @@
-# Vue-with-Firebase-Authentication
+# VueFirebaseAuth-Vue-with-Firebase-Authentication
 
-> A Vue.js project
+![alt text](https://raw.githubusercontent.com/payafterwork/VueFirebaseAuth-Vue-with-Firebase-Authentication/master/img.PNG)
+
+> Vue web application with an authentication system using Vue 2, vue-router and Firebase.
 
 ## Build Setup
 
