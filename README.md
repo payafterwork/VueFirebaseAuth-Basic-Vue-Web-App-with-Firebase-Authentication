@@ -1,4 +1,4 @@
-# geoloc
+# Vue-with-Firebase-Authentication
 
 > A Vue.js project
 
